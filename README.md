@@ -135,9 +135,9 @@ I did not write the Python scanner. That was a teammate's work.
 Built by a four-person team for our university capstone course:
 
 - **Alyona M** ([@malys23](https://github.com/malys23)): project planning, database design (SQL and ERD), complete front end, some back-end endpoints
--  ([@jrb3620](https://github.com/jrb3620)): Python syllabus scanner
--  ([@QDizzle03](https://github.com/QDizzle03)): security and JWT authentication
--  ([@ccallisto](https://github.com/ccallisto)): server and deployment, implementing the database, most of the back end
+- ([@jrb3620](https://github.com/jrb3620)): Python syllabus scanner
+- ([@QDizzle03](https://github.com/QDizzle03)): security and JWT authentication
+- ([@ccallisto](https://github.com/ccallisto)): server and deployment, implementing the database, most of the back end
 
 ## Challenges and solutions
 
@@ -194,4 +194,4 @@ This was the first large web application our team built. If I were starting agai
 
 ## Contact
 
-Alyona M · [www.linkedin.com/in/amaliassova] · [alyona.maliassova@gmail.com]
+Alyona M · [LinkedIn](www.linkedin.com/in/amaliassova) · [alyona.maliassova@gmail.com](alyona.maliassova@gmail.com)
